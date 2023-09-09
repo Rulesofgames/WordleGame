@@ -38,7 +38,11 @@ The Wordle Game is a web-based word puzzle game developed using the Eclipse IDE.
 
 ![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/cf163589-86d7-4da6-93c0-0781afd0d4a7)
 
-![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/36ae95f2-0a5d-4b1f-86cc-a0899a536bbe)
+![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/b74cdcd7-f3e5-4f72-9d59-9003ece7e590)
+
+![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/9bf7f7a4-5bce-496c-a5d3-68dbeedb97eb)
+
+
 
 
 
