@@ -31,4 +31,15 @@ The Wordle Game is a web-based word puzzle game developed using the Eclipse IDE.
          their correctness but misplacement.
          3. **Incorrect Letters (Gray):** Any letters in the player's guess that are incorrect and not part of the target word typically appear in gray. This color code distinguishes them from the correct letters.
   
-* **Game End:** The game concludes when the player either guesses the word correctly or reaches the maximum number of allowed attempts. Players can then choose to start a new game.  
+* **Game End:** The game concludes when the player either guesses the word correctly or reaches the maximum number of allowed attempts. Players can then choose to start a new game.
+
+**Screenshots:**
+![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/0d5fad0f-85f2-4d3d-b5c2-88d17be396d9)
+
+![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/cf163589-86d7-4da6-93c0-0781afd0d4a7)
+
+![image](https://github.com/Rulesofgames/WordleGame/assets/63700137/36ae95f2-0a5d-4b1f-86cc-a0899a536bbe)
+
+
+
+  
