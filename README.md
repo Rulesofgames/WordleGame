@@ -1,4 +1,4 @@
-# WordleGame  
+WordleGame  
 
 **Demo Link:** https://www.youtube.com/watch?v=p6hlZ3_GUjM
 
