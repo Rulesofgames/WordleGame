@@ -25,10 +25,10 @@ The Wordle Game is a web-based word puzzle game developed using the Eclipse IDE.
   * **User Interaction:** Players engage with the game through the frontend interface (JSP). The grid serves as the interactive game board where players input their guesses for the target word using the provided on-screen keyboard.  
 
 * **Guess Validation and Feedback:** The core of the game lies in the "Guess Validation" process, where the backend utilizes the WordsAPI to validate each player's guess against a comprehensive dictionary of valid words. If a player's guess is confirmed as a valid word, the backend calculates detailed feedback to provide an informative experience. The feedback includes the following:
-         * **Correct Letters in Correct Positions (Green):** Letters that are both correct and in the right positions are highlighted in green on the frontend grid. This signifies the player's successful 
+         1. **Correct Letters in Correct Positions (Green):** Letters that are both correct and in the right positions are highlighted in green on the frontend grid. This signifies the player's successful 
          identification of these letters.
-         * **Correct Letters in Wrong Positions (Yellow):** If a player's guess contains letters that are correct but positioned incorrectly within the word, these letters turn yellow on the grid, indicating 
+         2. **Correct Letters in Wrong Positions (Yellow):** If a player's guess contains letters that are correct but positioned incorrectly within the word, these letters turn yellow on the grid, indicating 
          their correctness but misplacement.
-         * **Incorrect Letters (Gray):** Any letters in the player's guess that are incorrect and not part of the target word typically appear in gray. This color code distinguishes them from the correct letters.
+         3. **Incorrect Letters (Gray):** Any letters in the player's guess that are incorrect and not part of the target word typically appear in gray. This color code distinguishes them from the correct letters.
   
 * **Game End:** The game concludes when the player either guesses the word correctly or reaches the maximum number of allowed attempts. Players can then choose to start a new game.  
